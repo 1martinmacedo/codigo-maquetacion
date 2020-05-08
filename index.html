@@ -1,18 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="/style/main.css">
 </head>
+
 <body>
     <main>
-        <section>
-            <img src="./imagen/image.png" alt="foto de perfil">
+        <section class="imagen">
+            <img src="./imagen/foto.png" alt="foto de perfil">
             <h1>codiGO</h1>
-            <h2>Hola, mi nombre es martin macedo</h2>
+            <div>
+                <h2>Hola, mi nombre es martin macedo</h2>
+            </div>
         </section>
-        <section>
+        <section class="skilss">
             <h2>My Skills</h2>
             <div>
                 <div>
@@ -79,7 +84,7 @@
                 </div>
             </div>
         </section>
-        <section>
+        <section class="servicios">
             <h2>Servicios</h2>
             <div>
                 <div>
@@ -108,7 +113,7 @@
                 </div>
             </div>
         </section>
-        <section>
+        <section class="portafolio">
             <h2>portafolio</h2>
             <div>
                 <img src="./imagen/image-1..png" alt="">
@@ -121,7 +126,7 @@
                 <img src="./imagen/image-8..png" alt="">
             </div>
         </section>
-        <section>
+        <section class="clientes">
             <h2>Clientes</h2>
             <div>
                 <img src="./imagen/martin.png" alt="">
@@ -130,12 +135,21 @@
                 <img src="./imagen/martin4.png" alt="">
             </div>
         </section>
-        <section>
+        <section class="contacto">
+            </br>
             <h2>Contacto</h2>
             <form action="">
-                <input type="text "placeholder ="nombre" >
-                <input type="text" >
+                <input type="text" placeholder="nombre">
+                <input type="type" placeholder="apellido">
+                <input type="email" placeholder="email">
+                <input type="phone" placeholder="telefono">
             </form>
+            </br>
+            <textarea name="descripcion" id="" cols="30" rows="10">Descripcion</textarea>
+            </br>
+            <button>enviar</button>
         </section>
+    </main>
 </body>
+
 </html>

@@ -1,0 +1,138 @@
+/*
+main
+*/
+main{
+    background-color:white;
+
+}
+
+/*
+my skill*/
+.skilss{
+    background-color:#7299FE;
+    position: absolute;
+    width: 960px;
+    height: 424px;
+    left: 0px;
+    top: 525px;
+}
+h2{
+    position: absolute;
+    width: 300px;
+    height: 200px;
+    left: 420px;
+    top: 0px;
+    
+    font-family: roboto ;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 42px;
+    color: white;
+}
+h3{
+  color: white;
+}
+
+}
+h3{
+
+}
+
+/*
+services
+*/
+.servicios{
+    background-color: #FB7171;
+    position: absolute;
+    width: 960px;
+    height: 424px;
+    left: 0px;
+    top: 949px;
+}
+/*
+portafolio
+*/
+.portafolio{ background-color: #FFD233;
+    position: absolute;
+    width: 960px;
+    height: 424px;
+    left: 0px;
+    top: 1373px;
+
+}
+/*
+clientes
+*/
+.clientes{
+    background-color: #3F4E62;
+    position: absolute;
+    width: 960px;
+    height: 258px;
+    left: -1px;
+    top: 1797px;
+}
+/*
+contacto
+*/
+.contacto{
+    background-color :#16A085;
+    position: absolute;
+    width: 960px;
+    height: 578px;
+    left: 0px;
+    top: 2054px;
+}
+/*
+imagen
+*/
+.imagen{
+    position: absolute;
+    width: 950px;
+    height: 525px;
+    left: 0px;
+    top: 0px;
+    background: url(foto.png);
+}
+/*
+codigo
+*/
+.imagen h1{
+    position: absolute;
+    width: 211px;
+    height: 75px;
+    left: 400px;
+    top: 36px;
+    font-family: roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 65px;
+    color: white;
+}
+
+/*
+codigo
+*/
+.imagen h2{
+    position: absolute;
+    width: 361px;
+    height: 97px;
+    left: 68px;
+    top: 286px;
+    font-family: roboto;
+    font-style: normal;
+    font-weight:bold;
+    font-size: 36px;
+    line-height: 42px;
+    color: #FFFFFF;
+    border: 10px cornflowerblue;
+
+}
+/*
+html
+*/
+
+
+
+
